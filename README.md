@@ -43,7 +43,7 @@ SmartGate-OS/
 
 ### 1. Clone & Install dependencies
 ```bash
-git clone https://github.com/swapnilggg836/SmartGate-OS.git
+git clone https://github.com/PranavSonawane04/SmartGate-OS.git
 cd SmartGate-OS
 npm install
 ```
